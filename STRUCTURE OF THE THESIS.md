@@ -59,7 +59,7 @@
 **5.3 Volatility and institutional and governance quality**
 - 2D bubbble charts - static
   [bubble size: standard deviation GDP growth; y axis: mean GDP growth, x axis: mean Governance quality/mean Institutional quality/standard deviation Net capital inflows]
-- 3D bubble charts - dynamic [github.io](https://sergiocarosio.github.io/economics/)
+- 3D bubble charts - dynamic ([github.io](https://sergiocarosio.github.io/economics/))
   [bubble size: standard deviation GDP growth; z axis: standard deviation Net capital inflows, y axis: mean GDP growth, x axis: mean Governance quality/mean Institutional quality]
 
 **6. Extension of the analysis**
@@ -95,6 +95,7 @@
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
 
 **References**
+
 
 
 
