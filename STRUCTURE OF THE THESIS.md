@@ -76,7 +76,7 @@
 - 3D bubble charts - dynamic ([github.io](https://sergiocarosio.github.io/economics/))
   [bubble size: standard deviation GDP growth; z axis: standard deviation Net capital inflows, y axis: mean GDP growth, x axis: mean Governance quality/mean Institutional quality]
 
-**6. Extension of the analysis**
+**[6. Potential xtension of the analysis]**
 - Chow-Lin interpolation
 - Extend analysis to inflation and unemployment
 - Other
@@ -115,6 +115,7 @@
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
 
 **References**
+
 
 
 
