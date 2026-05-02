@@ -1,5 +1,0 @@
-Questions:
-Which IRFs should be showed? Only the unconstrained variables? All the variables? Constrained and unconstrained in two different chart?
-How many lags should I use? According to the tests performed the best amount of lags seem to be 3, but following a rule of thumb I would go for 1. What's the best?
-RGDP in LCU and NCI in U.S. Dollars. Might this create issues in terms of comparability? Should I express NCI as ratio of GDP? And, if it's the case, should convert LCU to U.S. Dollars or NCI to LCU?
-Venezuela has an amount of missing values way bigger than the other countries. The best time period to minimise the weight of data artificially interpolated is between 2001M1 and 2013M10. Does it make sense to include Venezuela in the dataset? Should I drop this country? Sgould I treat it differently?
