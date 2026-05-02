@@ -11,15 +11,15 @@
 
 **3. Model**
 
-  **3.1 Empirical Analysis**
+ - Empirical Analysis
 
-  **3.2 Structural Framework**
+  - Structural Framework
 
-  **3.3 Sign-Restriction Identification**
+  - Sign-Restriction Identification
 
-  **3.4 Penalty Function Method**
+  - Penalty Function Method
 
-  **3.5 Identification Strategy and Model Settings**
+  - Identification Strategy and Model Settings
   
 
 **4. Results**
