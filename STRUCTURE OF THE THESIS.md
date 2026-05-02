@@ -26,17 +26,17 @@
     
   - Impulse Responses to an Export Price Shock
   
-  - Block I: Positive Comovement Between Net Capital Inflows and Real GDP
+     - Block I: Positive Comovement Between Net Capital Inflows and Real GDP
 
-  - Block II: Mixed or Negative Comovement Between Net Capital Inflows and Real GDP
+     - Block II: Mixed or Negative Comovement Between Net Capital Inflows and Real GDP
 
      - Sovereign Risk Responses to Export Price Shocks
   
-  **4.2 Global Financial Shocks and Capital Flows Composition
+  - Global Financial Shocks and Capital Flows Composition
   
-  **4.2.1 Export Price Shocks and Global Financial Conditions
+     - Export Price Shocks and Global Financial Conditions
   
-  **4.2.2 Misallocation of Capital and Financial Curse Risk
+     - Misallocation of Capital and Financial Curse Risk
 
 
 **5 Conclusion**
@@ -50,13 +50,13 @@
 
   - Data Transformations
 
-  - Log-linearisation
+      - Log-linearisation
 
-  - Missing values
+      - Missing values
 
-  - From High to Low-Frequency Data
+      - From High to Low-Frequency Data
 
-  - Detrending
+      - Detrending
 
 
 **B Preliminary Time Series Analysis**
