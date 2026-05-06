@@ -1,0 +1,102 @@
+body {
+  max-width: 800px;
+  margin: auto;
+  font-family: Georgia, serif;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+/* Center ALL images */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Optional: control size */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Make images centered and responsive */
+figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+/* Make images centered and responsive */
+.abstract {
+  text-align: justify;
+  max-width: 750px;
+  margin: 2em auto;
+  font-size: 1.05em;
+}
+
+/* Optional: nicer captions */
+figcaption {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 0.5em;
+}
+
+
+
+/* Sidebar */
+.container {
+  display: flex;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;     
+  width: 250px;
+  height: 100vh;
+  background-color: #f4f4f4;
+  padding: 20px;
+  overflow-y: auto;
+  border-right: 1px solid #ddd;
+}
+
+.sidebar h2 {
+  font-size: 18px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar ul ul {
+  margin-left: 15px;
+  font-size: 0.9em;
+}
+
+.sidebar ul ul ul {
+  margin-left: 25px;
+  font-size: 0.85em;
+}
+
+.sidebar li {
+  margin: 10px 0;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #333;
+}
+
+.sidebar a:hover {
+  color: #0077cc;
+}
+
+.content {
+  margin-left: 270px;      /* keeps space for sidebar */
+  padding: 40px;
+
+  max-width: 900px;        /* controls line width (important for readability) */
+  margin-right: auto;
+  margin-left: auto;       /* centers the block */
+}
